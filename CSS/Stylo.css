@@ -1,0 +1,26 @@
+/*header{
+    background: orange;
+  }
+  
+  section{
+    background: pink;
+  }
+  footer{
+    background: greenyellow;
+  }*/
+  
+  body{
+    background: black;
+    color: white;
+  }
+  /*#titulo{
+    color: aqua;
+  }
+  .titulo{
+    color: brown;
+  }*/
+  footer p:nth-child(1){
+    color: pink;
+  }
+  
+  
